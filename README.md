@@ -1,2 +1,2 @@
-# Print-de-diagrama
+# Print-do-diagrama
 Print  de de acompanhamento para Resilia 
