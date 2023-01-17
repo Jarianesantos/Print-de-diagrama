@@ -1,6 +1,6 @@
 # Print-do-diagrama
 Print  de de acompanhamento para Resilia 
-#Existem outras entidades além dessas três?
+# Existem outras entidades além dessas três?
 não
 # Quais são os principais campos e tipos?
 tipo diagrama de classe e  turmas é a principal, pois ele está ligado ao id cursos e id alunos.
